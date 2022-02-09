@@ -23,7 +23,7 @@ You can see that Android never allows the end of a scroll to be in a place betwe
 
 Until recently, you'd have to resort to JavaScript code to make a similar behavior on the web. But now, all you need is CSS, which makes things more performant, consistent and reliable! Browser support is already pretty good, with all major browser engines already supporting it fully. Check out browser support on [caniuse.com](https://caniuse.com/#feat=css-snappoints).
 
-I've recently added scroll snapping to my own website. You can check it out on the "Work Experience" section in the [Home page](https://fantinel.dev). It's specially great on mobile!
+I've recently added scroll snapping to my own website. You can check it out on the "Work Experience" section in the [Home page](https://swadesh.github.io). It's specially great on mobile!
 
 ## How?
 
@@ -47,9 +47,9 @@ This property tells the browser that the parent element uses scroll snapping. We
 
 We use `mandatory` to tell that the browser _must_ snap to a snap point when the user stops scrolling. This means that if the next snap point becomes visible on the screen and scrolling stops, the browser will automatically snap to the next one. In the other end, with `proximity`, things are less strict. The browser will only snap to the next snap point if scrolling gets past a certain threshold. Both values are useful, their use will depend on the situation you're applying it to.
 
-<iframe height="500" style="width: 100%;" scrolling="no" title="scroll-snap-type: Mandatory vs Proximity" src="https://codepen.io/matfantinel/embed/preview/LYNPdpE?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href="https://codepen.io/matfantinel/pen/LYNPdpE">
-  scroll-snap-type: Mandatory vs Proximity</a> by Matheus Fantinel (<a href="https://codepen.io/matfantinel">@matfantinel</a>)
+<iframe height="500" style="width: 100%;" scrolling="no" title="scroll-snap-type: Mandatory vs Proximity" src="https://codepen.io/itswadesh/embed/preview/LYNPdpE?default-tab=result&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/itswadesh/pen/LYNPdpE">
+  scroll-snap-type: Mandatory vs Proximity</a> by Swadesh (<a href="https://codepen.io/itswadesh">@itswadesh</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 

@@ -95,7 +95,7 @@ From there on, the possibilities are endless. On my profile, I added my personal
 </figure>
 
 
-Feel free to check out [the source code](https://github.com/matfantinel/matfantinel) to find out how it works.
+Feel free to check out [the source code](https://github.com/itswadesh/itswadesh) to find out how it works.
 
 ## Inspiration
 

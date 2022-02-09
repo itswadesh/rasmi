@@ -1,5 +1,5 @@
 {
-  "name": "matt-fantinel-website",
+  "name": "swadesh-behera-website",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev --host",
@@ -8,7 +8,7 @@
     "preview": "svelte-kit preview",
     "lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
-    "postbuild": "svelte-sitemap --domain https://fantinel.dev"
+    "postbuild": "svelte-sitemap --domain https://swadesh.github.io"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^1.0.0-next.17",

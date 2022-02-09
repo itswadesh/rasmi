@@ -60,7 +60,7 @@ We then decided to use the Micro Frontends approach, rewriting our pages/compone
 
 ## How do they work in practice?
 
-For this article, I am going to create a custom element with Angular 7 and use it in a simple html file. I've created a sample app on GitHub. [You can check the full code here.](https://github.com/matfantinel/custom-elements-sample)
+For this article, I am going to create a custom element with Angular 7 and use it in a simple html file. I've created a sample app on GitHub. [You can check the full code here.](https://github.com/itswadesh/custom-elements-sample)
 
 ### Creating the Custom Element
 

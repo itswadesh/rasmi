@@ -43,7 +43,7 @@ This year I worked on a few personal projects, and tried different approaches wi
   * Improved Ionic and PWA knowledge;
   * Improved performance knowledge, with Web Workers, Virtual Scrolling and Lazy Loading;
 * I redesigned part of my website - I decided to change things up a bit, with an animated (but still lightweight) header background, a new logo, typography improvements, code highlighting, and more. I think it looks more professional than before, and represents my way of building things better as well;
-* I built [my Resume as a Web Component](https://github.com/matfantinel/resume) - using StencilJS to build it, and CSS Grid for the layout. Both of those things were new to me, so it was pretty interesting;
+* I built [my Resume as a Web Component](https://github.com/itswadesh/resume) - using StencilJS to build it, and CSS Grid for the layout. Both of those things were new to me, so it was pretty interesting;
 * I learned about [CSS Scroll Snapping](/css-scroll-snapping/) - a fantastic new CSS capability that helps with reducing the amount of JS in our websites;
 * I focused a lot on improving my design skills this year. While I'm still a developer (and plan on continuing to be), designing things is something I find very fun. I learned messing with a few design-related things this year:
   * Edit SVG files in Inkscape - still a lot to learn, but I'm already capable of doing some edits to existing files;

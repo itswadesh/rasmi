@@ -9,15 +9,13 @@ const extensions = ['.svelte', '.md'];
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// Consult https://github.com/sveltejs/svelte-preprocess
-	// for more information about preprocessors
 	preprocess: [
 		preprocess({
-      preserve: ['module']
-    }),
+      		preserve: ['module']
+    	}),
 		mdsvex({
 			extensions: extensions,
-      rehypePlugins: [
+      		rehypePlugins: [
 				rehypeExternalLinks, // Adds 'target' and 'rel' to external links
 				rehypeSlug, // Adds 'id' attributes to Headings (h1,h2,etc)
 				[rehypeAutolinkHeadings, { // Adds hyperlinks to the headings, requires rehypeSlug
@@ -35,8 +33,6 @@ const config = {
 	extensions: extensions,
 
 	kit: {
-		// hydrate the <div id="svelte-root"> element in src/app.html
-		target: '#svelte-root',
 		adapter: adapter()
 	}
 };

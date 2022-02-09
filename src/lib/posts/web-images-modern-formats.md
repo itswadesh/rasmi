@@ -167,7 +167,7 @@ For my needs, I have developed a NodeJS script that uses the [Sharp](https://git
 
 The script is at the time of writing this currently usable only via command line. I have plans to turn this into a part of the build process of my website, with a [GitHub Action](https://github.com/features/actions), so that I don't have to run it manually. 
 
-So, to check out how to use the script, please [check out its GitHub page](https://github.com/matfantinel/image-transmutation) for up-to-date instructions.
+So, to check out how to use the script, please [check out its GitHub page](https://github.com/itswadesh/image-transmutation) for up-to-date instructions.
 
 ### Using the images
 

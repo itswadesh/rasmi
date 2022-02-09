@@ -1,4 +1,4 @@
-# matfantinel.github.io / fantinel.dev
+# swadesh.github.io / swadesh.github.io
 
 This is my own personal website, built with SvelteKit. It also holds my own personal blog.
 
@@ -35,7 +35,7 @@ The site should now be available at http://0.0.0.0:3000/ on your local machine, 
 
 # Optimizing images
 
-I've built an image-optimizer script called [image-transmutation](https://github.com/matfantinel/image-transmutation) that is used on this website. For now, you have to run it manually, while I don't push it to npm.
+I've built an image-optimizer script called [image-transmutation](https://github.com/itswadesh/image-transmutation) that is used on this website. For now, you have to run it manually, while I don't push it to npm.
 
 On the image-transmutation project folder, run:
 

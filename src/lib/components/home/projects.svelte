@@ -29,7 +29,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/matfantinel/matfantinel.github.io"
+									href="https://github.com/itswadesh/swadesh.github.io"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -67,7 +67,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/matfantinel/acnh-pocket-companion"
+									href="https://github.com/itswadesh/acnh-pocket-companion"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -77,7 +77,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://pocketcompanion.fantinel.dev/"
+									href="https://pocketcompanion.swadesh.github.io/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -152,7 +152,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/matfantinel/moneta"
+									href="https://github.com/itswadesh/moneta"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -162,7 +162,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://appcenter.elementary.io/com.github.matfantinel.moneta/"
+									href="https://appcenter.elementary.io/com.github.itswadesh.moneta/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -196,7 +196,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/matfantinel/reminduck"
+									href="https://github.com/itswadesh/reminduck"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -206,7 +206,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://appcenter.elementary.io/com.github.matfantinel.reminduck/"
+									href="https://appcenter.elementary.io/com.github.itswadesh.reminduck/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"

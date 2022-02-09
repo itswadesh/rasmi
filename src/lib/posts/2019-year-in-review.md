@@ -43,11 +43,11 @@ I'm a bit late to the party, but this is still something I've found out about in
 
 Basically, you have HTML, CSS and JS. Add some special powers for using variables/loops inside that HTML code and ta-da! It works. Jekyll also allows you to create pages from Markdown (.md) files. I use it for blog posts like this one.
 
-Since it's a static website, it means the code that's served to users/visitors is compiled just once and then served as HTML files. No servers or APIs necessary. It's pretty cool. You can check more about Jekyll [here](https://jekyllrb.com/) and can check the source code for my website [here](https://github.com/matfantinel/matfantinel.github.io).
+Since it's a static website, it means the code that's served to users/visitors is compiled just once and then served as HTML files. No servers or APIs necessary. It's pretty cool. You can check more about Jekyll [here](https://jekyllrb.com/) and can check the source code for my website [here](https://github.com/itswadesh/swadesh.github.io).
 
 ## Open Source is awesome
 
-I have released two open-source apps this year for elementaryOS ([Reminduck](https://github.com/matfantinel/reminduck) and [Moneta](https://github.com/matfantinel/moneta)). I gotta say, besides the fact that I was learning an entirely different development stack (Vala, GTK, Desktop native), the best "new" thing I enjoyed was doing it in the open.
+I have released two open-source apps this year for elementaryOS ([Reminduck](https://github.com/itswadesh/reminduck) and [Moneta](https://github.com/itswadesh/moneta)). I gotta say, besides the fact that I was learning an entirely different development stack (Vala, GTK, Desktop native), the best "new" thing I enjoyed was doing it in the open.
 
 These are not complex, commercial apps or anything like that. They're small utilities that I use on a daily basis and that were made open and released in hopes of helping anyone out there too. And I gotta say, having users like your software is great, but having them actively contribute to it is even better. As soon as they were released/made public, I started receiving pull requests, bug reports, feature requests, and translations from everywhere. **It's so amazing that people from all over the world took interest in my little idea and helped improve them any way they could.**
 
