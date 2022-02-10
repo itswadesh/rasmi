@@ -31,7 +31,7 @@
 <div class="container">
 	<Hero />
 	<About />
-	<RecentPosts {posts} />
+	<!-- <RecentPosts {posts} /> -->
 	<Projects />
 	<Experience />
 </div>

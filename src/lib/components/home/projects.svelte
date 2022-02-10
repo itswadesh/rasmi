@@ -21,63 +21,64 @@
 			<ProjectsGrid>
 				<Card>
 					<div slot="image">
-						<Image path="projects" filename="personal-website" alt="Personal Website" />
+						<Image path="projects" filename="yatra" alt="Yatra" />
 					</div>
 					<div slot="content">
 						<div class="title">
-							Personal Website
+							Yatra Portal
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/itswadesh/swadesh.github.io"
+									href="http://kptapp/yatra"
 									target="_blank"
 									rel="noopener"
-									title="Open project on GitHub"
+									title="Open site"
 								>
-									<Github />
+									<ExternalLinkIcon />
 								</a>
 							</div>
 						</div>
 						<div class="text">
-							The website you’re seeing right now. Designed to be pretty, simple, and lightweight.
+							All tour proposal advances goes through this portal so that physical file movement can
+							be avoided and the approval process becomes trackable and faster
 
-							<a
+							<!-- <a
 								class="project-post-button button secondary-light transparent"
 								href="/blog-development-sveltekit"
 							>
 								Read blog post
-							</a>
+							</a> -->
 						</div>
 					</div>
 					<div slot="footer">
 						<div class="tags">
-							<Tag>Svelte</Tag>
-							<Tag color="secondary">Open Source</Tag>
+							<Tag>Angular</Tag>
+							<Tag color="secondary">PHP</Tag>
 						</div>
 					</div>
 				</Card>
 
 				<Card>
 					<div slot="image">
-						<Image path="projects" filename="pocket-companion" alt="Pocket Companion" />
+						<Image path="projects" filename="consumables" alt="Pocket Companion" />
 					</div>
 					<div slot="content">
 						<div class="title">
-							Pocket Companion
+							Consumables Dashboard
 							<div class="links">
-								<a
+								<!-- <a
 									class="text-secondary"
-									href="https://github.com/itswadesh/acnh-pocket-companion"
+									href="https://github.com/itrasmi/acnh-pocket-companion"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
 								>
 									<Github />
-								</a>
+								</a> -->
 
 								<a
 									class="text-secondary"
-									href="https://pocketcompanion.swadesh.github.io/"
+									href="http://kptapp/consumables"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -87,37 +88,37 @@
 							</div>
 						</div>
 						<div class="text">
-							A companion app for Animal Crossing New Horizons. Manage your island, tasks and
-							Critterpedia with this handy web app.
+							Dashboard for Consumables monitoring which reduces consumable wastage as well as
+							shortage by improving planning.
 
-							<a
+							<!-- <a
 								class="project-post-button button secondary-light transparent"
 								href="/ionic-animal-crossing-companion"
 							>
 								Read blog post
-							</a>
+							</a> -->
 						</div>
 					</div>
 					<div slot="footer">
 						<div class="tags">
 							<Tag>Angular</Tag>
-							<Tag>Ionic</Tag>
-							<Tag color="secondary">Open Source</Tag>
+							<Tag>SASS</Tag>
+							<Tag color="secondary">PHP</Tag>
 						</div>
 					</div>
 				</Card>
 
 				<Card>
 					<div slot="image">
-						<Image path="projects" filename="gestek" alt="Gestek" />
+						<Image path="projects" filename="bus" alt="Gestek" />
 					</div>
 					<div slot="content">
 						<div class="title">
-							Gestek
+							Bus Ticket Booking
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://gestek.com.br/"
+									href="http://halkpt/folder_generation/bus_ticket_login.aspx"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -126,21 +127,17 @@
 								</a>
 							</div>
 						</div>
-						<div class="text">
-							A web app for managing Beauty Clinics, supporting the entire day-to-day operation,
-							with built-in CRM, ERP and beauty-clinic specific features. I worked on this project
-							as the lead front-end developer for over a year.
-						</div>
+						<div class="text">Very useful connecting bus information.</div>
 					</div>
 					<div slot="footer">
 						<div class="tags">
-							<Tag>Angular</Tag>
+							<Tag>ASP.NET</Tag>
 							<Tag>PWA</Tag>
 						</div>
 					</div>
 				</Card>
 			</ProjectsGrid>
-
+			<!-- 
 			<ThreeByThreeGrid>
 				<Card>
 					<div slot="image">
@@ -152,7 +149,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/itswadesh/moneta"
+									href="https://github.com/itrasmi/moneta"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -162,7 +159,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://appcenter.elementary.io/com.github.itswadesh.moneta/"
+									href="https://appcenter.elementary.io/com.github.itrasmi.moneta/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -196,7 +193,7 @@
 							<div class="links">
 								<a
 									class="text-secondary"
-									href="https://github.com/itswadesh/reminduck"
+									href="https://github.com/itrasmi/reminduck"
 									target="_blank"
 									rel="noopener"
 									title="Open project on GitHub"
@@ -206,7 +203,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://appcenter.elementary.io/com.github.itswadesh.reminduck/"
+									href="https://appcenter.elementary.io/com.github.itrasmi.reminduck/"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
@@ -229,7 +226,7 @@
 						</div>
 					</div>
 				</Card>
-			</ThreeByThreeGrid>
+			</ThreeByThreeGrid> -->
 		</OneByOneGrid>
 	</Section>
 	<Blobs maxTop={5} minLeft={50} />

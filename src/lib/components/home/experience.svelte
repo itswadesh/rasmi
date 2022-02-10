@@ -15,8 +15,8 @@
 		{
 			id: 'freelancer',
 			title: 'Freelancer',
-			jobTitle: 'Front-End Web Developer',
-			timeframe: '2021 ~ Now',
+			jobTitle: 'System Architect',
+			timeframe: '2022 ~ Now',
 			description:
 				"As an independent contractor, I've been able to build new innovative projects from scratch putting my development, planning, design and teamwork skills to the test.",
 			tags: [
@@ -35,12 +35,12 @@
 			]
 		},
 		{
-			id: 'logitix',
-			title: 'Logitix',
+			id: 'hal',
+			title: 'HAL',
 			jobTitle: 'Software Engineer',
-			timeframe: '2019 ~ 2021',
+			timeframe: '2005 ~ 2022',
 			description:
-				"Working on one of the biggest ticket brokerage management systems in the world, I've built new features, improved existing ones, and made huge boosts to performance.",
+				"Working on one of the biggest aviation industry in South East Asia, I've built new features, improved existing ones, and made huge boosts to productivity and saving millions of Rupees for the company.",
 			tags: [
 				{
 					color: 'primary',
@@ -59,59 +59,59 @@
 					text: 'SQL'
 				}
 			]
-		},
-		{
-			id: 'sige',
-			title: 'SIGE Cloud',
-			jobTitle: 'Software Developer',
-			timeframe: '2017 ~ 2019',
-			description:
-				'Built new mobile apps from scratch with Ionic, a simplified desktop ERP with Electron, and modernized the existing Web version by applying the Microfrontends approach.',
-			tags: [
-				{
-					color: 'primary',
-					text: 'Angular'
-				},
-				{
-					color: 'primary',
-					text: 'Ionic'
-				},
-				{
-					color: 'primary',
-					text: 'Electron'
-				},
-				{
-					color: 'secondary',
-					text: '.NET'
-				},
-				{
-					color: 'secondary',
-					text: 'MongoDB'
-				}
-			]
-		},
-		{
-			id: 'promob',
-			title: 'Promob',
-			jobTitle: 'Software Developer',
-			timeframe: '2014 ~ 2017',
-			description:
-				'Developed and maintained an internal web app, adding and adapting features to the business needs. Built several APIs used by other dev teams, and integrated them with 3rd-party services.',
-			tags: [
-				{
-					color: 'primary',
-					text: 'JQuery'
-				},
-				{
-					color: 'secondary',
-					text: '.NET'
-				},
-				{
-					color: 'secondary',
-					text: 'SQL'
-				}
-			]
 		}
+		// {
+		// 	id: 'sige',
+		// 	title: 'SIGE Cloud',
+		// 	jobTitle: 'Software Developer',
+		// 	timeframe: '2017 ~ 2019',
+		// 	description:
+		// 		'Built new mobile apps from scratch with Ionic, a simplified desktop ERP with Electron, and modernized the existing Web version by applying the Microfrontends approach.',
+		// 	tags: [
+		// 		{
+		// 			color: 'primary',
+		// 			text: 'Angular'
+		// 		},
+		// 		{
+		// 			color: 'primary',
+		// 			text: 'Ionic'
+		// 		},
+		// 		{
+		// 			color: 'primary',
+		// 			text: 'Electron'
+		// 		},
+		// 		{
+		// 			color: 'secondary',
+		// 			text: '.NET'
+		// 		},
+		// 		{
+		// 			color: 'secondary',
+		// 			text: 'MongoDB'
+		// 		}
+		// 	]
+		// },
+		// {
+		// 	id: 'promob',
+		// 	title: 'Promob',
+		// 	jobTitle: 'Software Developer',
+		// 	timeframe: '2014 ~ 2017',
+		// 	description:
+		// 		'Developed and maintained an internal web app, adding and adapting features to the business needs. Built several APIs used by other dev teams, and integrated them with 3rd-party services.',
+		// 	tags: [
+		// 		{
+		// 			color: 'primary',
+		// 			text: 'JQuery'
+		// 		},
+		// 		{
+		// 			color: 'secondary',
+		// 			text: '.NET'
+		// 		},
+		// 		{
+		// 			color: 'secondary',
+		// 			text: 'SQL'
+		// 		}
+		// 	]
+		// }
 	];
 </script>
 

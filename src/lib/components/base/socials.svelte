@@ -8,19 +8,19 @@
 </script>
 
 <div class="socials">
-  <a href="https://t.me/itswadesh" target="_blank" rel="noopener" title="Say Hi on Telegram">
+  <a href="https://t.me/itrasmi" target="_blank" rel="noopener" title="Say Hi on Telegram">
     <TelegramIcon />
   </a>
-  <a href="https://twitter.com/itswadesh" target="_blank" rel="noopener" title="Say Hi on Twitter">
+  <a href="https://twitter.com/itrasmi" target="_blank" rel="noopener" title="Say Hi on Twitter">
     <TwitterIcon />
   </a>
-  <a href="https://github.com/itswadesh" target="_blank" rel="noopener" title="See my GitHub profile">
+  <a href="https://github.com/itrasmi" target="_blank" rel="noopener" title="See my GitHub profile">
     <GitHubIcon />
   </a>
-  <a href="https://www.linkedin.com/in/itswadesh/" target="_blank" rel="noopener" title="Connect on LinkedIn">
+  <a href="https://www.linkedin.com/in/itrasmi/" target="_blank" rel="noopener" title="Connect on LinkedIn">
     <LinkedInIcon />
   </a>
-  <a href="mailto:swadesh@misiki.in" target="_blank" rel="noopener" title="Send an email to swadesh@misiki.in">
+  <a href="mailto:rasmi@misiki.in" target="_blank" rel="noopener" title="Send an email to rasmi@misiki.in">
     <EmailIcon />
   </a>
   <a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
