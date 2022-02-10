@@ -120,10 +120,10 @@
 		align="right"
 		title="Work Experience"
 		description="Over the past {yearsOfExperience}+ years, I've worked on a lot of cool projects."
-		buttonText="View Resume"
 		buttonUrl="/resume"
 		buttonColor="secondary"
 	>
+		<!-- buttonText="View Resume" -->
 		<TwoByTwoGrid>
 			{#each entries as entry}
 				<Card>
