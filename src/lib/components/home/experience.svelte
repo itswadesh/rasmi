@@ -6,7 +6,7 @@
 	import Tag from '../base/tag.svelte';
 	import Blobs from '../layout/blobs.svelte';
 
-	const careerStart = new Date(2014, 8, 22);
+	const careerStart = new Date(2006, 8, 1);
 	const yearsOfExperience = Math.abs(
 		new Date(Date.now() - careerStart.getTime()).getUTCFullYear() - 1970
 	);
@@ -24,7 +24,7 @@
 					color: 'primary',
 					text: 'Vue'
 				},
-        {
+				{
 					color: 'primary',
 					text: 'React'
 				},
